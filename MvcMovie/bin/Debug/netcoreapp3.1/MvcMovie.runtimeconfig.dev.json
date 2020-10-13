@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\fdsgo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\fdsgo\\.nuget\\packages"
+    ]
+  }
+}
