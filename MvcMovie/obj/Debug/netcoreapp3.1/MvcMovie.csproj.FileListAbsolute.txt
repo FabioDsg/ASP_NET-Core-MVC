@@ -36,3 +36,4 @@ G:\bkp\Dev_Things\Courses\ASP_NET-Core-MVC\MvcMovie\obj\Debug\netcoreapp3.1\MvcM
 G:\bkp\Dev_Things\Courses\ASP_NET-Core-MVC\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.genruntimeconfig.cache
 G:\bkp\Dev_Things\Courses\ASP_NET-Core-MVC\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.csproj.CopyComplete
 G:\bkp\Dev_Things\Courses\ASP_NET-Core-MVC\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Index.cshtml.g.cs
+G:\bkp\Dev_Things\Courses\ASP_NET-Core-MVC\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
